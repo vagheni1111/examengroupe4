@@ -37,6 +37,7 @@ if (isset($_POST['guess'])) {
 </head>
 <link rel="stylesheet" href="style.css">
 <body>
+    <a href="a propos.html"></a>
     <div class="container">
         <div class="bg-container">
             <h1>Jeu de Devinette de Nombre</h1>

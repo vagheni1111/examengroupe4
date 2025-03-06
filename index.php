@@ -55,6 +55,7 @@ if (isset($_POST['guess'])) {
                 <button type="submit" name="reset">Recommencer</button>
             </form>
         </div>
-    </div>   
+    </div> 
+    <script src="script.js"></script>
 </body>
 </html>
